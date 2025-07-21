@@ -1,0 +1,1493 @@
+[
+    {
+        "rank": 1,
+        "name": "Yamcha",
+        "anime": "Dragon Ball",
+        "power_level": "2",
+        "rarity": "Common"
+    },
+    {
+        "rank": 2,
+        "name": "Chiaotzu",
+        "anime": "Dragon Ball",
+        "power_level": "3",
+        "rarity": "Common"
+    },
+    {
+        "rank": 3,
+        "name": "Mr. Satan",
+        "anime": "Dragon Ball",
+        "power_level": "4",
+        "rarity": "Common"
+    },
+    {
+        "rank": 4,
+        "name": "Konohamaru",
+        "anime": "Naruto",
+        "power_level": "8",
+        "rarity": "Common"
+    },
+    {
+        "rank": 5,
+        "name": "Sakura Haruno (inicial)",
+        "anime": "Naruto",
+        "power_level": "10",
+        "rarity": "Common"
+    },
+    {
+        "rank": 6,
+        "name": "Hinata Hyuga (inicial)",
+        "anime": "Naruto",
+        "power_level": "25",
+        "rarity": "Common"
+    },
+    {
+        "rank": 7,
+        "name": "Tenten",
+        "anime": "Naruto",
+        "power_level": "45",
+        "rarity": "Common"
+    },
+    {
+        "rank": 8,
+        "name": "Ino Yamanaka",
+        "anime": "Naruto",
+        "power_level": "60",
+        "rarity": "Common"
+    },
+    {
+        "rank": 9,
+        "name": "Magikarp",
+        "anime": "Pokemon",
+        "power_level": "100",
+        "rarity": "Common"
+    },
+    {
+        "rank": 10,
+        "name": "Team Rocket",
+        "anime": "Pokemon",
+        "power_level": "100",
+        "rarity": "Common"
+    },
+    {
+        "rank": 11,
+        "name": "Usopp (inicial)",
+        "anime": "One Piece",
+        "power_level": "200",
+        "rarity": "Common"
+    },
+    {
+        "rank": 12,
+        "name": "Nami (inicial)",
+        "anime": "One Piece",
+        "power_level": "300",
+        "rarity": "Common"
+    },
+    {
+        "rank": 13,
+        "name": "Chopper",
+        "anime": "One Piece",
+        "power_level": "350",
+        "rarity": "Common"
+    },
+    {
+        "rank": 14,
+        "name": "Brook (inicial)",
+        "anime": "One Piece",
+        "power_level": "350",
+        "rarity": "Common"
+    },
+    {
+        "rank": 15,
+        "name": "Happy",
+        "anime": "Fairy Tail",
+        "power_level": "400",
+        "rarity": "Common"
+    },
+    {
+        "rank": 16,
+        "name": "Carla",
+        "anime": "Fairy Tail",
+        "power_level": "500",
+        "rarity": "Common"
+    },
+    {
+        "rank": 17,
+        "name": "Wendy Marvell",
+        "anime": "Fairy Tail",
+        "power_level": "750",
+        "rarity": "Common"
+    },
+    {
+        "rank": 18,
+        "name": "Levy McGarden",
+        "anime": "Fairy Tail",
+        "power_level": "1000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 19,
+        "name": "Orihime Inoue",
+        "anime": "Bleach",
+        "power_level": "1000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 20,
+        "name": "Chad Yasutora",
+        "anime": "Bleach",
+        "power_level": "2000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 21,
+        "name": "Kon",
+        "anime": "Bleach",
+        "power_level": "2500",
+        "rarity": "Common"
+    },
+    {
+        "rank": 22,
+        "name": "Don Kanonji",
+        "anime": "Bleach",
+        "power_level": "2500",
+        "rarity": "Common"
+    },
+    {
+        "rank": 23,
+        "name": "Kenji Harima",
+        "anime": "School Rumble",
+        "power_level": "3000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 24,
+        "name": "Nobita Nobi",
+        "anime": "Doraemon",
+        "power_level": "3500",
+        "rarity": "Common"
+    },
+    {
+        "rank": 25,
+        "name": "Shinji Ikari",
+        "anime": "Evangelion",
+        "power_level": "4000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 26,
+        "name": "Rei Ayanami",
+        "anime": "Evangelion",
+        "power_level": "5000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 27,
+        "name": "Asuka Langley",
+        "anime": "Evangelion",
+        "power_level": "5000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 28,
+        "name": "Yui Hirasawa",
+        "anime": "K-On!",
+        "power_level": "7500",
+        "rarity": "Common"
+    },
+    {
+        "rank": 29,
+        "name": "Mio Akiyama",
+        "anime": "K-On!",
+        "power_level": "10000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 30,
+        "name": "Ritsu Tainaka",
+        "anime": "K-On!",
+        "power_level": "10000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 31,
+        "name": "Tsumugi Kotobuki",
+        "anime": "K-On!",
+        "power_level": "10000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 32,
+        "name": "Azusa Nakano",
+        "anime": "K-On!",
+        "power_level": "20000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 33,
+        "name": "Taiga Aisaka",
+        "anime": "Toradora",
+        "power_level": "20000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 34,
+        "name": "Ryuuji Takasu",
+        "anime": "Toradora",
+        "power_level": "25000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 35,
+        "name": "Minori Kushieda",
+        "anime": "Toradora",
+        "power_level": "35000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 36,
+        "name": "Ami Kawashima",
+        "anime": "Toradora",
+        "power_level": "40000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 37,
+        "name": "Yusaku Kitamura",
+        "anime": "Toradora",
+        "power_level": "50000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 38,
+        "name": "Subaru Natsuki",
+        "anime": "Re:Zero",
+        "power_level": "50000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 39,
+        "name": "Kazuma Satou",
+        "anime": "KonoSuba",
+        "power_level": "50000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 40,
+        "name": "Aqua",
+        "anime": "KonoSuba",
+        "power_level": "50000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 41,
+        "name": "Darkness",
+        "anime": "KonoSuba",
+        "power_level": "50000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 42,
+        "name": "Megumin",
+        "anime": "KonoSuba",
+        "power_level": "55000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 43,
+        "name": "Issei Hyoudou",
+        "anime": "High School DxD",
+        "power_level": "70000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 44,
+        "name": "Rias Gremory",
+        "anime": "High School DxD",
+        "power_level": "85000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 45,
+        "name": "Akeno Himejima",
+        "anime": "High School DxD",
+        "power_level": "100000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 46,
+        "name": "Koneko Toujou",
+        "anime": "High School DxD",
+        "power_level": "100000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 47,
+        "name": "Kiba Yuuto",
+        "anime": "High School DxD",
+        "power_level": "100000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 48,
+        "name": "Gasai Yuno",
+        "anime": "Future Diary",
+        "power_level": "120000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 49,
+        "name": "Yukiteru Amano",
+        "anime": "Future Diary",
+        "power_level": "150000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 50,
+        "name": "Minene Uryuu",
+        "anime": "Future Diary",
+        "power_level": "150000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 51,
+        "name": "Bulma",
+        "anime": "Dragon Ball",
+        "power_level": "150000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 52,
+        "name": "Chi-Chi",
+        "anime": "Dragon Ball",
+        "power_level": "200000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 53,
+        "name": "Master Roshi",
+        "anime": "Dragon Ball",
+        "power_level": "250000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 54,
+        "name": "Krillin (inicial)",
+        "anime": "Dragon Ball",
+        "power_level": "250000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 55,
+        "name": "Tien Shinhan",
+        "anime": "Dragon Ball",
+        "power_level": "250000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 56,
+        "name": "Yajirobe",
+        "anime": "Dragon Ball",
+        "power_level": "250000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 57,
+        "name": "Videl",
+        "anime": "Dragon Ball",
+        "power_level": "250000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 58,
+        "name": "Android 19",
+        "anime": "Dragon Ball",
+        "power_level": "250000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 59,
+        "name": "Dr. Gero",
+        "anime": "Dragon Ball",
+        "power_level": "250000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 60,
+        "name": "Saibamen",
+        "anime": "Dragon Ball",
+        "power_level": "250000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 61,
+        "name": "Raditz",
+        "anime": "Dragon Ball",
+        "power_level": "350000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 62,
+        "name": "Nappa",
+        "anime": "Dragon Ball",
+        "power_level": "350000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 63,
+        "name": "Guldo",
+        "anime": "Dragon Ball",
+        "power_level": "350000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 64,
+        "name": "Recoome",
+        "anime": "Dragon Ball",
+        "power_level": "350000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 65,
+        "name": "Burter",
+        "anime": "Dragon Ball",
+        "power_level": "350000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 66,
+        "name": "Jeice",
+        "anime": "Dragon Ball",
+        "power_level": "350000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 67,
+        "name": "Captain Ginyu",
+        "anime": "Dragon Ball",
+        "power_level": "350000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 68,
+        "name": "Dodoria",
+        "anime": "Dragon Ball",
+        "power_level": "450000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 69,
+        "name": "Zarbon",
+        "anime": "Dragon Ball",
+        "power_level": "450000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 70,
+        "name": "King Cold",
+        "anime": "Dragon Ball",
+        "power_level": "500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 71,
+        "name": "Garlic Jr.",
+        "anime": "Dragon Ball",
+        "power_level": "500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 72,
+        "name": "Dr. Wheelo",
+        "anime": "Dragon Ball",
+        "power_level": "500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 73,
+        "name": "Turles",
+        "anime": "Dragon Ball",
+        "power_level": "500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 74,
+        "name": "Lord Slug",
+        "anime": "Dragon Ball",
+        "power_level": "500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 75,
+        "name": "Cooler",
+        "anime": "Dragon Ball",
+        "power_level": "500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 76,
+        "name": "Android 13",
+        "anime": "Dragon Ball",
+        "power_level": "500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 77,
+        "name": "Bojack",
+        "anime": "Dragon Ball",
+        "power_level": "500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 78,
+        "name": "Hirudegarn",
+        "anime": "Dragon Ball",
+        "power_level": "500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 79,
+        "name": "Shizune",
+        "anime": "Naruto",
+        "power_level": "750000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 80,
+        "name": "Iruka Umino",
+        "anime": "Naruto",
+        "power_level": "750000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 81,
+        "name": "Mizuki",
+        "anime": "Naruto",
+        "power_level": "750000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 82,
+        "name": "Ebisu",
+        "anime": "Naruto",
+        "power_level": "750000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 83,
+        "name": "Hayate Gekko",
+        "anime": "Naruto",
+        "power_level": "850000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 84,
+        "name": "Genma Shiranui",
+        "anime": "Naruto",
+        "power_level": "1000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 85,
+        "name": "Kotetsu Hagane",
+        "anime": "Naruto",
+        "power_level": "1000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 86,
+        "name": "Izumo Kamizuki",
+        "anime": "Naruto",
+        "power_level": "1000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 87,
+        "name": "Aoba Yamashiro",
+        "anime": "Naruto",
+        "power_level": "1000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 88,
+        "name": "Raido Namiashi",
+        "anime": "Naruto",
+        "power_level": "1000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 89,
+        "name": "Iwashi Tatami",
+        "anime": "Naruto",
+        "power_level": "1000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 90,
+        "name": "Tsubaki",
+        "anime": "Naruto",
+        "power_level": "1000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 91,
+        "name": "Zaku Abumi",
+        "anime": "Naruto",
+        "power_level": "1000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 92,
+        "name": "Kin Tsuchi",
+        "anime": "Naruto",
+        "power_level": "1000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 93,
+        "name": "Dosu Kinuta",
+        "anime": "Naruto",
+        "power_level": "1250000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 94,
+        "name": "Misumi Tsurugi",
+        "anime": "Naruto",
+        "power_level": "1250000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 95,
+        "name": "Yoroi Akado",
+        "anime": "Naruto",
+        "power_level": "1250000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 96,
+        "name": "Kankuro",
+        "anime": "Naruto",
+        "power_level": "1500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 97,
+        "name": "Temari",
+        "anime": "Naruto",
+        "power_level": "1500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 98,
+        "name": "Shino Aburame",
+        "anime": "Naruto",
+        "power_level": "1500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 99,
+        "name": "Choji Akimichi",
+        "anime": "Naruto",
+        "power_level": "1500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 100,
+        "name": "Shikamaru Nara",
+        "anime": "Naruto",
+        "power_level": "1750000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 101,
+        "name": "Kiba Inuzuka",
+        "anime": "Naruto",
+        "power_level": "2000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 102,
+        "name": "Akamaru",
+        "anime": "Naruto",
+        "power_level": "2000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 103,
+        "name": "Sasuke Uchiha (inicial)",
+        "anime": "Naruto",
+        "power_level": "2000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 104,
+        "name": "Naruto Uzumaki (inicial)",
+        "anime": "Naruto",
+        "power_level": "2000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 105,
+        "name": "Rock Lee (pesos)",
+        "anime": "Naruto",
+        "power_level": "2500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 106,
+        "name": "Neji Hyuga",
+        "anime": "Naruto",
+        "power_level": "2500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 107,
+        "name": "Gaara (inicial)",
+        "anime": "Naruto",
+        "power_level": "2500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 108,
+        "name": "Haku",
+        "anime": "Naruto",
+        "power_level": "2500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 109,
+        "name": "Zabuza Momochi",
+        "anime": "Naruto",
+        "power_level": "3000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 110,
+        "name": "Kabuto Yakushi",
+        "anime": "Naruto",
+        "power_level": "3000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 111,
+        "name": "Orochimaru (inicial)",
+        "anime": "Naruto",
+        "power_level": "3500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 112,
+        "name": "Jiraiya",
+        "anime": "Naruto",
+        "power_level": "3500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 113,
+        "name": "Tsunade",
+        "anime": "Naruto",
+        "power_level": "3500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 114,
+        "name": "Might Guy",
+        "anime": "Naruto",
+        "power_level": "3500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 115,
+        "name": "Kakashi Hatake",
+        "anime": "Naruto",
+        "power_level": "3500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 116,
+        "name": "Asuma Sarutobi",
+        "anime": "Naruto",
+        "power_level": "3500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 117,
+        "name": "Kurenai Yuhi",
+        "anime": "Naruto",
+        "power_level": "4000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 118,
+        "name": "Anko Mitarashi",
+        "anime": "Naruto",
+        "power_level": "5000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 119,
+        "name": "Ibiki Morino",
+        "anime": "Naruto",
+        "power_level": "5000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 120,
+        "name": "Rock Lee (sin pesos)",
+        "anime": "Naruto",
+        "power_level": "5000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 121,
+        "name": "Kimmimaro",
+        "anime": "Naruto",
+        "power_level": "5000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 122,
+        "name": "Sakon",
+        "anime": "Naruto",
+        "power_level": "5000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 123,
+        "name": "Ukon",
+        "anime": "Naruto",
+        "power_level": "5000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 124,
+        "name": "Tayuya",
+        "anime": "Naruto",
+        "power_level": "5000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 125,
+        "name": "Kidomaru",
+        "anime": "Naruto",
+        "power_level": "6000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 126,
+        "name": "Jirobo",
+        "anime": "Naruto",
+        "power_level": "6000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 127,
+        "name": "Hiruzen Sarutobi",
+        "anime": "Naruto",
+        "power_level": "7500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 128,
+        "name": "Danzo Shimura",
+        "anime": "Naruto",
+        "power_level": "7500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 129,
+        "name": "Chiyo",
+        "anime": "Naruto",
+        "power_level": "7500000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 130,
+        "name": "Sasori",
+        "anime": "Naruto",
+        "power_level": "10000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 131,
+        "name": "Deidara",
+        "anime": "Naruto",
+        "power_level": "10000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 132,
+        "name": "Hidan",
+        "anime": "Naruto",
+        "power_level": "10000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 133,
+        "name": "Kakuzu",
+        "anime": "Naruto",
+        "power_level": "10000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 134,
+        "name": "Konan",
+        "anime": "Naruto",
+        "power_level": "10000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 135,
+        "name": "Kisame Hoshigaki",
+        "anime": "Naruto",
+        "power_level": "10000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 136,
+        "name": "Ichigo Kurosaki (inicial)",
+        "anime": "Bleach",
+        "power_level": "10000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 137,
+        "name": "Rukia Kuchiki",
+        "anime": "Bleach",
+        "power_level": "10000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 138,
+        "name": "Uryu Ishida",
+        "anime": "Bleach",
+        "power_level": "10000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 139,
+        "name": "Renji Abarai",
+        "anime": "Bleach",
+        "power_level": "10000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 140,
+        "name": "Ikkaku Madarame",
+        "anime": "Bleach",
+        "power_level": "15000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 141,
+        "name": "Yumichika Ayasegawa",
+        "anime": "Bleach",
+        "power_level": "15000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 142,
+        "name": "Rangiku Matsumoto",
+        "anime": "Bleach",
+        "power_level": "20000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 143,
+        "name": "Shuhei Hisagi",
+        "anime": "Bleach",
+        "power_level": "20000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 144,
+        "name": "Izuru Kira",
+        "anime": "Bleach",
+        "power_level": "20000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 145,
+        "name": "Momo Hinamori",
+        "anime": "Bleach",
+        "power_level": "25000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 146,
+        "name": "Tetsuzaemon Iba",
+        "anime": "Bleach",
+        "power_level": "30000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 147,
+        "name": "Marechiyo Omaeda",
+        "anime": "Bleach",
+        "power_level": "30000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 148,
+        "name": "Nanao Ise",
+        "anime": "Bleach",
+        "power_level": "30000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 149,
+        "name": "Nemu Kurotsuchi",
+        "anime": "Bleach",
+        "power_level": "30000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 150,
+        "name": "Isane Kotetsu",
+        "anime": "Bleach",
+        "power_level": "30000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 151,
+        "name": "Toshiro Hitsugaya",
+        "anime": "Bleach",
+        "power_level": "35000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 152,
+        "name": "Byakuya Kuchiki",
+        "anime": "Bleach",
+        "power_level": "40000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 153,
+        "name": "Kenpachi Zaraki",
+        "anime": "Bleach",
+        "power_level": "40000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 154,
+        "name": "Mayuri Kurotsuchi",
+        "anime": "Bleach",
+        "power_level": "40000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 155,
+        "name": "Jushiro Ukitake",
+        "anime": "Bleach",
+        "power_level": "45000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 156,
+        "name": "Shunsui Kyoraku",
+        "anime": "Bleach",
+        "power_level": "50000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 157,
+        "name": "Retsu Unohana",
+        "anime": "Bleach",
+        "power_level": "50000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 158,
+        "name": "Sajin Komamura",
+        "anime": "Bleach",
+        "power_level": "50000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 159,
+        "name": "Kensei Muguruma",
+        "anime": "Bleach",
+        "power_level": "60000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 160,
+        "name": "Shinji Hirako",
+        "anime": "Bleach",
+        "power_level": "60000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 161,
+        "name": "Rose Otoribashi",
+        "anime": "Bleach",
+        "power_level": "60000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 162,
+        "name": "Love Aikawa",
+        "anime": "Bleach",
+        "power_level": "75000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 163,
+        "name": "Lisa Yadomaru",
+        "anime": "Bleach",
+        "power_level": "75000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 164,
+        "name": "Mashiro Kuna",
+        "anime": "Bleach",
+        "power_level": "75000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 165,
+        "name": "Hiyori Sarugaki",
+        "anime": "Bleach",
+        "power_level": "75000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 166,
+        "name": "Hachigen Ushoda",
+        "anime": "Bleach",
+        "power_level": "80000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 167,
+        "name": "Gin Ichimaru",
+        "anime": "Bleach",
+        "power_level": "100000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 168,
+        "name": "Kaname Tosen",
+        "anime": "Bleach",
+        "power_level": "100000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 169,
+        "name": "Sosuke Aizen (inicial)",
+        "anime": "Bleach",
+        "power_level": "100000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 170,
+        "name": "Yamamoto Genryusai",
+        "anime": "Bleach",
+        "power_level": "100000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 171,
+        "name": "Ulquiorra Cifer",
+        "anime": "Bleach",
+        "power_level": "100000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 172,
+        "name": "Grimmjow Jaegerjaquez",
+        "anime": "Bleach",
+        "power_level": "100000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 173,
+        "name": "Nnoitra Gilga",
+        "anime": "Bleach",
+        "power_level": "100000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 174,
+        "name": "Tier Halibel",
+        "anime": "Bleach",
+        "power_level": "100000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 175,
+        "name": "Baraggan Louisenbairn",
+        "anime": "Bleach",
+        "power_level": "100000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 176,
+        "name": "Coyote Starrk",
+        "anime": "Bleach",
+        "power_level": "120000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 177,
+        "name": "Monkey D. Luffy (inicial)",
+        "anime": "One Piece",
+        "power_level": "125000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 178,
+        "name": "Roronoa Zoro",
+        "anime": "One Piece",
+        "power_level": "150000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 179,
+        "name": "Sanji",
+        "anime": "One Piece",
+        "power_level": "150000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 180,
+        "name": "Nico Robin",
+        "anime": "One Piece",
+        "power_level": "150000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 181,
+        "name": "Franky",
+        "anime": "One Piece",
+        "power_level": "150000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 182,
+        "name": "Brook (post-timeskip)",
+        "anime": "One Piece",
+        "power_level": "150000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 183,
+        "name": "Jinbe",
+        "anime": "One Piece",
+        "power_level": "200000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 184,
+        "name": "Portgas D. Ace",
+        "anime": "One Piece",
+        "power_level": "225000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 185,
+        "name": "Sabo",
+        "anime": "One Piece",
+        "power_level": "235000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 186,
+        "name": "Trafalgar Law",
+        "anime": "One Piece",
+        "power_level": "250000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 187,
+        "name": "Eustass Kid",
+        "anime": "One Piece",
+        "power_level": "250000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 188,
+        "name": "Killer",
+        "anime": "One Piece",
+        "power_level": "250000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 189,
+        "name": "Basil Hawkins",
+        "anime": "One Piece",
+        "power_level": "250000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 190,
+        "name": "X Drake",
+        "anime": "One Piece",
+        "power_level": "250000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 191,
+        "name": "Scratchmen Apoo",
+        "anime": "One Piece",
+        "power_level": "350000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 192,
+        "name": "Capone Bege",
+        "anime": "One Piece",
+        "power_level": "350000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 193,
+        "name": "Jewelry Bonney",
+        "anime": "One Piece",
+        "power_level": "400000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 194,
+        "name": "Urouge",
+        "anime": "One Piece",
+        "power_level": "400000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 195,
+        "name": "Smoker",
+        "anime": "One Piece",
+        "power_level": "500000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 196,
+        "name": "Tashigi",
+        "anime": "One Piece",
+        "power_level": "500000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 197,
+        "name": "Hina",
+        "anime": "One Piece",
+        "power_level": "600000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 198,
+        "name": "Crocodile",
+        "anime": "One Piece",
+        "power_level": "600000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 199,
+        "name": "Doflamingo",
+        "anime": "One Piece",
+        "power_level": "600000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 200,
+        "name": "Gecko Moria",
+        "anime": "One Piece",
+        "power_level": "750000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 201,
+        "name": "Bartholomew Kuma",
+        "anime": "One Piece",
+        "power_level": "1000000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 202,
+        "name": "Boa Hancock",
+        "anime": "One Piece",
+        "power_level": "1000000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 203,
+        "name": "Dracule Mihawk",
+        "anime": "One Piece",
+        "power_level": "1000000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 204,
+        "name": "Natsu Dragneel",
+        "anime": "Fairy Tail",
+        "power_level": "1000000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 205,
+        "name": "Lucy Heartfilia",
+        "anime": "Fairy Tail",
+        "power_level": "1250000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 206,
+        "name": "Erza Scarlet",
+        "anime": "Fairy Tail",
+        "power_level": "1250000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 207,
+        "name": "Gray Fullbuster",
+        "anime": "Fairy Tail",
+        "power_level": "1500000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 208,
+        "name": "Gajeel Redfox",
+        "anime": "Fairy Tail",
+        "power_level": "1500000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 209,
+        "name": "Laxus Dreyar",
+        "anime": "Fairy Tail",
+        "power_level": "1750000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 210,
+        "name": "Mirajane Strauss",
+        "anime": "Fairy Tail",
+        "power_level": "2000000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 211,
+        "name": "Elfman Strauss",
+        "anime": "Fairy Tail",
+        "power_level": "2000000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 212,
+        "name": "Lisanna Strauss",
+        "anime": "Fairy Tail",
+        "power_level": "2250000000",
+        "rarity": "Common"
+    },
+    {
+        "rank": 213,
+        "name": "Juvia Lockser",
+        "anime": "Fairy Tail",
+        "power_level": "2500000000",
+        "rarity": "Common"
+    }
+]

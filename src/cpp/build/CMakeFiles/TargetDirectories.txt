@@ -1,0 +1,3 @@
+D:/Programing/test/TextProbAnalisis/src/cpp/build/CMakeFiles/roll_card.dir
+D:/Programing/test/TextProbAnalisis/src/cpp/build/CMakeFiles/edit_cache.dir
+D:/Programing/test/TextProbAnalisis/src/cpp/build/CMakeFiles/rebuild_cache.dir

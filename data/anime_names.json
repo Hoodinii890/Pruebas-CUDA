@@ -1,0 +1,2290 @@
+{
+    "anime_characters_power_ranking": [
+        {
+            "rank": 1,
+            "name": "Yamcha",
+            "anime": "Dragon Ball",
+            "power_level": "Muy Débil"
+        },
+        {
+            "rank": 2,
+            "name": "Chiaotzu",
+            "anime": "Dragon Ball",
+            "power_level": "Muy Débil"
+        },
+        {
+            "rank": 3,
+            "name": "Mr. Satan",
+            "anime": "Dragon Ball",
+            "power_level": "Muy Débil"
+        },
+        {
+            "rank": 4,
+            "name": "Konohamaru",
+            "anime": "Naruto",
+            "power_level": "Muy Débil"
+        },
+        {
+            "rank": 5,
+            "name": "Sakura Haruno (inicial)",
+            "anime": "Naruto",
+            "power_level": "Muy Débil"
+        },
+        {
+            "rank": 6,
+            "name": "Hinata Hyuga (inicial)",
+            "anime": "Naruto",
+            "power_level": "Muy Débil"
+        },
+        {
+            "rank": 7,
+            "name": "Tenten",
+            "anime": "Naruto",
+            "power_level": "Muy Débil"
+        },
+        {
+            "rank": 8,
+            "name": "Ino Yamanaka",
+            "anime": "Naruto",
+            "power_level": "Muy Débil"
+        },
+        {
+            "rank": 9,
+            "name": "Magikarp",
+            "anime": "Pokemon",
+            "power_level": "Muy Débil"
+        },
+        {
+            "rank": 10,
+            "name": "Team Rocket",
+            "anime": "Pokemon",
+            "power_level": "Muy Débil"
+        },
+        {
+            "rank": 11,
+            "name": "Usopp (inicial)",
+            "anime": "One Piece",
+            "power_level": "Muy Débil"
+        },
+        {
+            "rank": 12,
+            "name": "Nami (inicial)",
+            "anime": "One Piece",
+            "power_level": "Muy Débil"
+        },
+        {
+            "rank": 13,
+            "name": "Chopper",
+            "anime": "One Piece",
+            "power_level": "Muy Débil"
+        },
+        {
+            "rank": 14,
+            "name": "Brook (inicial)",
+            "anime": "One Piece",
+            "power_level": "Muy Débil"
+        },
+        {
+            "rank": 15,
+            "name": "Happy",
+            "anime": "Fairy Tail",
+            "power_level": "Muy Débil"
+        },
+        {
+            "rank": 16,
+            "name": "Carla",
+            "anime": "Fairy Tail",
+            "power_level": "Muy Débil"
+        },
+        {
+            "rank": 17,
+            "name": "Wendy Marvell",
+            "anime": "Fairy Tail",
+            "power_level": "Muy Débil"
+        },
+        {
+            "rank": 18,
+            "name": "Levy McGarden",
+            "anime": "Fairy Tail",
+            "power_level": "Muy Débil"
+        },
+        {
+            "rank": 19,
+            "name": "Orihime Inoue",
+            "anime": "Bleach",
+            "power_level": "Muy Débil"
+        },
+        {
+            "rank": 20,
+            "name": "Chad Yasutora",
+            "anime": "Bleach",
+            "power_level": "Muy Débil"
+        },
+        {
+            "rank": 21,
+            "name": "Kon",
+            "anime": "Bleach",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 22,
+            "name": "Don Kanonji",
+            "anime": "Bleach",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 23,
+            "name": "Kenji Harima",
+            "anime": "School Rumble",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 24,
+            "name": "Nobita Nobi",
+            "anime": "Doraemon",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 25,
+            "name": "Shinji Ikari",
+            "anime": "Evangelion",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 26,
+            "name": "Rei Ayanami",
+            "anime": "Evangelion",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 27,
+            "name": "Asuka Langley",
+            "anime": "Evangelion",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 28,
+            "name": "Yui Hirasawa",
+            "anime": "K-On!",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 29,
+            "name": "Mio Akiyama",
+            "anime": "K-On!",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 30,
+            "name": "Ritsu Tainaka",
+            "anime": "K-On!",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 31,
+            "name": "Tsumugi Kotobuki",
+            "anime": "K-On!",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 32,
+            "name": "Azusa Nakano",
+            "anime": "K-On!",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 33,
+            "name": "Taiga Aisaka",
+            "anime": "Toradora",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 34,
+            "name": "Ryuuji Takasu",
+            "anime": "Toradora",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 35,
+            "name": "Minori Kushieda",
+            "anime": "Toradora",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 36,
+            "name": "Ami Kawashima",
+            "anime": "Toradora",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 37,
+            "name": "Yusaku Kitamura",
+            "anime": "Toradora",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 38,
+            "name": "Subaru Natsuki",
+            "anime": "Re:Zero",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 39,
+            "name": "Kazuma Satou",
+            "anime": "KonoSuba",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 40,
+            "name": "Aqua",
+            "anime": "KonoSuba",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 41,
+            "name": "Darkness",
+            "anime": "KonoSuba",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 42,
+            "name": "Megumin",
+            "anime": "KonoSuba",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 43,
+            "name": "Issei Hyoudou",
+            "anime": "High School DxD",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 44,
+            "name": "Rias Gremory",
+            "anime": "High School DxD",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 45,
+            "name": "Akeno Himejima",
+            "anime": "High School DxD",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 46,
+            "name": "Koneko Toujou",
+            "anime": "High School DxD",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 47,
+            "name": "Kiba Yuuto",
+            "anime": "High School DxD",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 48,
+            "name": "Gasai Yuno",
+            "anime": "Future Diary",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 49,
+            "name": "Yukiteru Amano",
+            "anime": "Future Diary",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 50,
+            "name": "Minene Uryuu",
+            "anime": "Future Diary",
+            "power_level": "Débil"
+        },
+        {
+            "rank": 51,
+            "name": "Bulma",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 52,
+            "name": "Chi-Chi",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 53,
+            "name": "Master Roshi",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 54,
+            "name": "Krillin (inicial)",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 55,
+            "name": "Tien Shinhan",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 56,
+            "name": "Yajirobe",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 57,
+            "name": "Videl",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 58,
+            "name": "Android 19",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 59,
+            "name": "Dr. Gero",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 60,
+            "name": "Saibamen",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 61,
+            "name": "Raditz",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 62,
+            "name": "Nappa",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 63,
+            "name": "Guldo",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 64,
+            "name": "Recoome",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 65,
+            "name": "Burter",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 66,
+            "name": "Jeice",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 67,
+            "name": "Captain Ginyu",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 68,
+            "name": "Dodoria",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 69,
+            "name": "Zarbon",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 70,
+            "name": "King Cold",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 71,
+            "name": "Garlic Jr.",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 72,
+            "name": "Dr. Wheelo",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 73,
+            "name": "Turles",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 74,
+            "name": "Lord Slug",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 75,
+            "name": "Cooler",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 76,
+            "name": "Android 13",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 77,
+            "name": "Bojack",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 78,
+            "name": "Hirudegarn",
+            "anime": "Dragon Ball",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 79,
+            "name": "Shizune",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 80,
+            "name": "Iruka Umino",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 81,
+            "name": "Mizuki",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 82,
+            "name": "Ebisu",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 83,
+            "name": "Hayate Gekko",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 84,
+            "name": "Genma Shiranui",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 85,
+            "name": "Kotetsu Hagane",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 86,
+            "name": "Izumo Kamizuki",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 87,
+            "name": "Aoba Yamashiro",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 88,
+            "name": "Raido Namiashi",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 89,
+            "name": "Iwashi Tatami",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 90,
+            "name": "Tsubaki",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 91,
+            "name": "Zaku Abumi",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 92,
+            "name": "Kin Tsuchi",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 93,
+            "name": "Dosu Kinuta",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 94,
+            "name": "Misumi Tsurugi",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 95,
+            "name": "Yoroi Akado",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 96,
+            "name": "Kankuro",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 97,
+            "name": "Temari",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 98,
+            "name": "Shino Aburame",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 99,
+            "name": "Choji Akimichi",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 100,
+            "name": "Shikamaru Nara",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 101,
+            "name": "Kiba Inuzuka",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 102,
+            "name": "Akamaru",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 103,
+            "name": "Sasuke Uchiha (inicial)",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 104,
+            "name": "Naruto Uzumaki (inicial)",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 105,
+            "name": "Rock Lee (pesos)",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 106,
+            "name": "Neji Hyuga",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 107,
+            "name": "Gaara (inicial)",
+            "anime": "Naruto",
+            "power_level": "Normal"
+        },
+        {
+            "rank": 108,
+            "name": "Haku",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 109,
+            "name": "Zabuza Momochi",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 110,
+            "name": "Kabuto Yakushi",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 111,
+            "name": "Orochimaru (inicial)",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 112,
+            "name": "Jiraiya",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 113,
+            "name": "Tsunade",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 114,
+            "name": "Might Guy",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 115,
+            "name": "Kakashi Hatake",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 116,
+            "name": "Asuma Sarutobi",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 117,
+            "name": "Kurenai Yuhi",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 118,
+            "name": "Anko Mitarashi",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 119,
+            "name": "Ibiki Morino",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 120,
+            "name": "Rock Lee (sin pesos)",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 121,
+            "name": "Kimmimaro",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 122,
+            "name": "Sakon",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 123,
+            "name": "Ukon",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 124,
+            "name": "Tayuya",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 125,
+            "name": "Kidomaru",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 126,
+            "name": "Jirobo",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 127,
+            "name": "Hiruzen Sarutobi",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 128,
+            "name": "Danzo Shimura",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 129,
+            "name": "Chiyo",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 130,
+            "name": "Sasori",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 131,
+            "name": "Deidara",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 132,
+            "name": "Hidan",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 133,
+            "name": "Kakuzu",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 134,
+            "name": "Konan",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 135,
+            "name": "Kisame Hoshigaki",
+            "anime": "Naruto",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 136,
+            "name": "Ichigo Kurosaki (inicial)",
+            "anime": "Bleach",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 137,
+            "name": "Rukia Kuchiki",
+            "anime": "Bleach",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 138,
+            "name": "Uryu Ishida",
+            "anime": "Bleach",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 139,
+            "name": "Renji Abarai",
+            "anime": "Bleach",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 140,
+            "name": "Ikkaku Madarame",
+            "anime": "Bleach",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 141,
+            "name": "Yumichika Ayasegawa",
+            "anime": "Bleach",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 142,
+            "name": "Rangiku Matsumoto",
+            "anime": "Bleach",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 143,
+            "name": "Shuhei Hisagi",
+            "anime": "Bleach",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 144,
+            "name": "Izuru Kira",
+            "anime": "Bleach",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 145,
+            "name": "Momo Hinamori",
+            "anime": "Bleach",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 146,
+            "name": "Tetsuzaemon Iba",
+            "anime": "Bleach",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 147,
+            "name": "Marechiyo Omaeda",
+            "anime": "Bleach",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 148,
+            "name": "Nanao Ise",
+            "anime": "Bleach",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 149,
+            "name": "Nemu Kurotsuchi",
+            "anime": "Bleach",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 150,
+            "name": "Isane Kotetsu",
+            "anime": "Bleach",
+            "power_level": "Medio"
+        },
+        {
+            "rank": 151,
+            "name": "Toshiro Hitsugaya",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 152,
+            "name": "Byakuya Kuchiki",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 153,
+            "name": "Kenpachi Zaraki",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 154,
+            "name": "Mayuri Kurotsuchi",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 155,
+            "name": "Jushiro Ukitake",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 156,
+            "name": "Shunsui Kyoraku",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 157,
+            "name": "Retsu Unohana",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 158,
+            "name": "Sajin Komamura",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 159,
+            "name": "Kensei Muguruma",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 160,
+            "name": "Shinji Hirako",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 161,
+            "name": "Rose Otoribashi",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 162,
+            "name": "Love Aikawa",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 163,
+            "name": "Lisa Yadomaru",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 164,
+            "name": "Mashiro Kuna",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 165,
+            "name": "Hiyori Sarugaki",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 166,
+            "name": "Hachigen Ushoda",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 167,
+            "name": "Gin Ichimaru",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 168,
+            "name": "Kaname Tosen",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 169,
+            "name": "Sosuke Aizen (inicial)",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 170,
+            "name": "Yamamoto Genryusai",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 171,
+            "name": "Ulquiorra Cifer",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 172,
+            "name": "Grimmjow Jaegerjaquez",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 173,
+            "name": "Nnoitra Gilga",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 174,
+            "name": "Tier Halibel",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 175,
+            "name": "Baraggan Louisenbairn",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 176,
+            "name": "Coyote Starrk",
+            "anime": "Bleach",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 177,
+            "name": "Monkey D. Luffy (inicial)",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 178,
+            "name": "Roronoa Zoro",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 179,
+            "name": "Sanji",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 180,
+            "name": "Nico Robin",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 181,
+            "name": "Franky",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 182,
+            "name": "Brook (post-timeskip)",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 183,
+            "name": "Jinbe",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 184,
+            "name": "Portgas D. Ace",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 185,
+            "name": "Sabo",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 186,
+            "name": "Trafalgar Law",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 187,
+            "name": "Eustass Kid",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 188,
+            "name": "Killer",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 189,
+            "name": "Basil Hawkins",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 190,
+            "name": "X Drake",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 191,
+            "name": "Scratchmen Apoo",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 192,
+            "name": "Capone Bege",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 193,
+            "name": "Jewelry Bonney",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 194,
+            "name": "Urouge",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 195,
+            "name": "Smoker",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 196,
+            "name": "Tashigi",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 197,
+            "name": "Hina",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 198,
+            "name": "Crocodile",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 199,
+            "name": "Doflamingo",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 200,
+            "name": "Gecko Moria",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 201,
+            "name": "Bartholomew Kuma",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 202,
+            "name": "Boa Hancock",
+            "anime": "One Piece",
+            "power_level": "Alto"
+        },
+        {
+            "rank": 203,
+            "name": "Dracule Mihawk",
+            "anime": "One Piece",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 204,
+            "name": "Natsu Dragneel",
+            "anime": "Fairy Tail",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 205,
+            "name": "Lucy Heartfilia",
+            "anime": "Fairy Tail",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 206,
+            "name": "Erza Scarlet",
+            "anime": "Fairy Tail",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 207,
+            "name": "Gray Fullbuster",
+            "anime": "Fairy Tail",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 208,
+            "name": "Gajeel Redfox",
+            "anime": "Fairy Tail",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 209,
+            "name": "Laxus Dreyar",
+            "anime": "Fairy Tail",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 210,
+            "name": "Mirajane Strauss",
+            "anime": "Fairy Tail",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 211,
+            "name": "Elfman Strauss",
+            "anime": "Fairy Tail",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 212,
+            "name": "Lisanna Strauss",
+            "anime": "Fairy Tail",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 213,
+            "name": "Juvia Lockser",
+            "anime": "Fairy Tail",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 214,
+            "name": "Lyon Vastia",
+            "anime": "Fairy Tail",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 215,
+            "name": "Jellal Fernandes",
+            "anime": "Fairy Tail",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 216,
+            "name": "Mystogan",
+            "anime": "Fairy Tail",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 217,
+            "name": "Makarov Dreyar",
+            "anime": "Fairy Tail",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 218,
+            "name": "Jose Porla",
+            "anime": "Fairy Tail",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 219,
+            "name": "Hades",
+            "anime": "Fairy Tail",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 220,
+            "name": "Zeref Dragneel",
+            "anime": "Fairy Tail",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 221,
+            "name": "Acnologia",
+            "anime": "Fairy Tail",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 222,
+            "name": "Edward Elric",
+            "anime": "Fullmetal Alchemist",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 223,
+            "name": "Alphonse Elric",
+            "anime": "Fullmetal Alchemist",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 224,
+            "name": "Roy Mustang",
+            "anime": "Fullmetal Alchemist",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 225,
+            "name": "Riza Hawkeye",
+            "anime": "Fullmetal Alchemist",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 226,
+            "name": "Maes Hughes",
+            "anime": "Fullmetal Alchemist",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 227,
+            "name": "Alex Louis Armstrong",
+            "anime": "Fullmetal Alchemist",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 228,
+            "name": "Izumi Curtis",
+            "anime": "Fullmetal Alchemist",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 229,
+            "name": "King Bradley",
+            "anime": "Fullmetal Alchemist",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 230,
+            "name": "Scar",
+            "anime": "Fullmetal Alchemist",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 231,
+            "name": "Lust",
+            "anime": "Fullmetal Alchemist",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 232,
+            "name": "Gluttony",
+            "anime": "Fullmetal Alchemist",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 233,
+            "name": "Envy",
+            "anime": "Fullmetal Alchemist",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 234,
+            "name": "Greed",
+            "anime": "Fullmetal Alchemist",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 235,
+            "name": "Sloth",
+            "anime": "Fullmetal Alchemist",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 236,
+            "name": "Wrath",
+            "anime": "Fullmetal Alchemist",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 237,
+            "name": "Pride",
+            "anime": "Fullmetal Alchemist",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 238,
+            "name": "Father",
+            "anime": "Fullmetal Alchemist",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 239,
+            "name": "Van Hohenheim",
+            "anime": "Fullmetal Alchemist",
+            "power_level": "Muy Alto"
+        },
+        {
+            "rank": 240,
+            "name": "Saitama",
+            "anime": "One Punch Man",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 241,
+            "name": "Genos",
+            "anime": "One Punch Man",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 242,
+            "name": "Speed-o'-Sound Sonic",
+            "anime": "One Punch Man",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 243,
+            "name": "Tatsumaki",
+            "anime": "One Punch Man",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 244,
+            "name": "Fubuki",
+            "anime": "One Piece",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 245,
+            "name": "Bang",
+            "anime": "One Punch Man",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 246,
+            "name": "Atomic Samurai",
+            "anime": "One Punch Man",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 247,
+            "name": "Child Emperor",
+            "anime": "One Punch Man",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 248,
+            "name": "Metal Knight",
+            "anime": "One Punch Man",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 249,
+            "name": "King",
+            "anime": "One Punch Man",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 250,
+            "name": "Zombieman",
+            "anime": "One Punch Man",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 251,
+            "name": "Drive Knight",
+            "anime": "One Punch Man",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 252,
+            "name": "Pig God",
+            "anime": "One Punch Man",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 253,
+            "name": "Superalloy Darkshine",
+            "anime": "One Punch Man",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 254,
+            "name": "Watchdog Man",
+            "anime": "One Punch Man",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 255,
+            "name": "Flashy Flash",
+            "anime": "One Punch Man",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 256,
+            "name": "Goku (niño)",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 257,
+            "name": "Krillin (Z)",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 258,
+            "name": "Piccolo (inicial)",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 259,
+            "name": "Gohan (niño)",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 260,
+            "name": "Vegeta (Saiyan Saga)",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 261,
+            "name": "Goku (Saiyan Saga)",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 262,
+            "name": "Frieza (primera forma)",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 263,
+            "name": "Frieza (segunda forma)",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 264,
+            "name": "Frieza (tercera forma)",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 265,
+            "name": "Frieza (forma final)",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 266,
+            "name": "Goku Super Saiyan",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 267,
+            "name": "Android 16",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 268,
+            "name": "Android 17",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 269,
+            "name": "Android 18",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 270,
+            "name": "Cell (primera forma)",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 271,
+            "name": "Cell (segunda forma)",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 272,
+            "name": "Cell Perfect",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 273,
+            "name": "Gohan Super Saiyan 2",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 274,
+            "name": "Majin Buu (gordo)",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 275,
+            "name": "Super Buu",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 276,
+            "name": "Kid Buu",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 277,
+            "name": "Goku Super Saiyan 3",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 278,
+            "name": "Vegeta Super Saiyan 2",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 279,
+            "name": "Gotenks Super Saiyan 3",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 280,
+            "name": "Mystic Gohan",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 281,
+            "name": "Vegito",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 282,
+            "name": "Gogeta",
+            "anime": "Dragon Ball",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 283,
+            "name": "Beerus",
+            "anime": "Dragon Ball Super",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 284,
+            "name": "Whis",
+            "anime": "Dragon Ball Super",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 285,
+            "name": "Goku Super Saiyan God",
+            "anime": "Dragon Ball Super",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 286,
+            "name": "Goku Super Saiyan Blue",
+            "anime": "Dragon Ball Super",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 287,
+            "name": "Vegeta Super Saiyan Blue",
+            "anime": "Dragon Ball Super",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 288,
+            "name": "Goku Ultra Instinct",
+            "anime": "Dragon Ball Super",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 289,
+            "name": "Jiren",
+            "anime": "Dragon Ball Super",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 290,
+            "name": "Hit",
+            "anime": "Dragon Ball Super",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 291,
+            "name": "Toppo",
+            "anime": "Dragon Ball Super",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 292,
+            "name": "Dyspo",
+            "anime": "Dragon Ball Super",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 293,
+            "name": "Cabba",
+            "anime": "Dragon Ball Super",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 294,
+            "name": "Caulifla",
+            "anime": "Dragon Ball Super",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 295,
+            "name": "Kale",
+            "anime": "Dragon Ball Super",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 296,
+            "name": "Kefla",
+            "anime": "Dragon Ball Super",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 297,
+            "name": "Broly",
+            "anime": "Dragon Ball Super",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 298,
+            "name": "Naruto Uzumaki (Sage Mode)",
+            "anime": "Naruto",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 299,
+            "name": "Pain/Nagato",
+            "anime": "Naruto",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 300,
+            "name": "Itachi Uchiha",
+            "anime": "Naruto",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 301,
+            "name": "Sasuke Uchiha (Mangekyo)",
+            "anime": "Naruto",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 302,
+            "name": "Tobi/Obito Uchiha",
+            "anime": "Naruto",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 303,
+            "name": "Minato Namikaze",
+            "anime": "Naruto",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 304,
+            "name": "Hashirama Senju",
+            "anime": "Naruto",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 305,
+            "name": "Madara Uchiha (vivo)",
+            "anime": "Naruto",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 306,
+            "name": "Tobirama Senju",
+            "anime": "Naruto",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 307,
+            "name": "A (Cuarto Raikage)",
+            "anime": "Naruto",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 308,
+            "name": "Onoki",
+            "anime": "Naruto",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 309,
+            "name": "Mei Terumi",
+            "anime": "Naruto",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 310,
+            "name": "Gaara (Kazekage)",
+            "anime": "Naruto",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 311,
+            "name": "Killer B",
+            "anime": "Naruto",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 312,
+            "name": "Naruto (Nine-Tails Mode)",
+            "anime": "Naruto",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 313,
+            "name": "Madara Uchiha (Edo Tensei)",
+            "anime": "Naruto",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 314,
+            "name": "Obito (Ten-Tails Jinchuriki)",
+            "anime": "Naruto",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 315,
+            "name": "Madara (Ten-Tails Jinchuriki)",
+            "anime": "Naruto",
+            "power_level": "Extremo"
+        },
+        {
+            "rank": 316,
+            "name": "Naruto (Six Paths Mode)",
+            "anime": "Naruto",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 317,
+            "name": "Sasuke (Rinnegan)",
+            "anime": "Naruto",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 318,
+            "name": "Kaguya Otsutsuki",
+            "anime": "Naruto",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 319,
+            "name": "Hagoromo Otsutsuki (Sage of Six Paths)",
+            "anime": "Naruto",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 320,
+            "name": "Hamura Otsutsuki",
+            "anime": "Naruto",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 321,
+            "name": "Ichigo (Bankai)",
+            "anime": "Bleach",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 322,
+            "name": "Ichigo (Hollow Mask)",
+            "anime": "Bleach",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 323,
+            "name": "Ichigo (Final Getsuga Tensho)",
+            "anime": "Bleach",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 324,
+            "name": "Aizen (Hogyoku)",
+            "anime": "Bleach",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 325,
+            "name": "Yhwach",
+            "anime": "Bleach",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 326,
+            "name": "Soul King",
+            "anime": "Bleach",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 327,
+            "name": "Luffy (Gear 4)",
+            "anime": "One Piece",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 328,
+            "name": "Luffy (Gear 5)",
+            "anime": "One Piece",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 329,
+            "name": "Kaido",
+            "anime": "One Piece",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 330,
+            "name": "Big Mom",
+            "anime": "One Piece",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 331,
+            "name": "Shanks",
+            "anime": "One Piece",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 332,
+            "name": "Blackbeard",
+            "anime": "One Piece",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 333,
+            "name": "Whitebeard",
+            "anime": "One Piece",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 334,
+            "name": "Kaido",
+            "anime": "One Piece",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 335,
+            "name": "Big Mom",
+            "anime": "One Piece",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 336,
+            "name": "Shanks",
+            "anime": "One Piece",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 337,
+            "name": "Monkey D. Garp",
+            "anime": "One Piece",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 338,
+            "name": "Sengoku",
+            "anime": "One Piece",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 339,
+            "name": "Akainu",
+            "anime": "One Piece",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 340,
+            "name": "Aokiji",
+            "anime": "One Piece",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 341,
+            "name": "Kizaru",
+            "anime": "One Piece",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 342,
+            "name": "Monkey D. Dragon",
+            "anime": "One Piece",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 343,
+            "name": "Imu",
+            "anime": "One Piece",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 344,
+            "name": "Gol D. Roger",
+            "anime": "One Piece",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 345,
+            "name": "Monkey D. Luffy (Gear 5)",
+            "anime": "One Piece",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 346,
+            "name": "Hashirama Senju",
+            "anime": "Naruto",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 347,
+            "name": "Madara Uchiha",
+            "anime": "Naruto",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 348,
+            "name": "Kaguya Otsutsuki",
+            "anime": "Naruto",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 349,
+            "name": "Naruto Uzumaki (Baryon Mode)",
+            "anime": "Naruto",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 350,
+            "name": "Sasuke Uchiha (Adulto)",
+            "anime": "Naruto",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 351,
+            "name": "Isshiki Otsutsuki",
+            "anime": "Boruto",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 352,
+            "name": "Jigen",
+            "anime": "Boruto",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 353,
+            "name": "Code",
+            "anime": "Boruto",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 354,
+            "name": "Daemon",
+            "anime": "Boruto",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 355,
+            "name": "Eida",
+            "anime": "Boruto",
+            "power_level": "Supremo"
+        },
+        {
+            "rank": 356,
+            "name": "Saitama",
+            "anime": "One Punch Man",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 357,
+            "name": "Goku (Ultra Instinct Mastered)",
+            "anime": "Dragon Ball Super",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 358,
+            "name": "Vegeta (Ultra Ego)",
+            "anime": "Dragon Ball Super",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 359,
+            "name": "Jiren",
+            "anime": "Dragon Ball Super",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 360,
+            "name": "Broly (Full Power)",
+            "anime": "Dragon Ball Super",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 361,
+            "name": "Gogeta Blue",
+            "anime": "Dragon Ball Super",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 362,
+            "name": "Vegito Blue",
+            "anime": "Dragon Ball Super",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 363,
+            "name": "Beerus",
+            "anime": "Dragon Ball Super",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 364,
+            "name": "Champa",
+            "anime": "Dragon Ball Super",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 365,
+            "name": "Whis",
+            "anime": "Dragon Ball Super",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 366,
+            "name": "Vados",
+            "anime": "Dragon Ball Super",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 367,
+            "name": "Grand Priest",
+            "anime": "Dragon Ball Super",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 368,
+            "name": "Zeno",
+            "anime": "Dragon Ball Super",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 369,
+            "name": "Rimuru Tempest (Final)",
+            "anime": "That Time I Got Reincarnated as a Slime",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 370,
+            "name": "Anos Voldigoad",
+            "anime": "The Misfit of Demon King Academy",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 371,
+            "name": "Featherine Augustus Aurora",
+            "anime": "Umineko",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 372,
+            "name": "Akuto Sai",
+            "anime": "Demon King Daimao",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 373,
+            "name": "Kami Tenchi",
+            "anime": "Tenchi Muyo",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 374,
+            "name": "Truth",
+            "anime": "Fullmetal Alchemist",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 375,
+            "name": "The Anti-Spiral",
+            "anime": "Tengen Toppa Gurren Lagann",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 376,
+            "name": "Simon (Post-Timeskip)",
+            "anime": "Tengen Toppa Gurren Lagann",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 377,
+            "name": "Haruhi Suzumiya",
+            "anime": "The Melancholy of Haruhi Suzumiya",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 378,
+            "name": "Yogiri Takatou",
+            "anime": "My Instant Death Ability is So Overpowered",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 379,
+            "name": "Demonbane",
+            "anime": "Demonbane",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 380,
+            "name": "Azathoth",
+            "anime": "Demonbane",
+            "power_level": "Omnipotente"
+        },
+        {
+            "rank": 381,
+            "name": "Yogiri Takatou ",
+            "anime": "Instant Death",
+            "power_level": "Ultimate Ensemble Tier"
+        }
+    ]
+}
