@@ -2,9 +2,11 @@ import cupy as cp
 import numpy as np
 import time
 
-def roll_card(cartas, M):
-    power_levels = cp.array([int(carta["power_level"]) for carta in cartas], dtype=cp.int64)
-    ranks = np.array([int(carta["rank"]) for carta in cartas], dtype=np.int32)
+def roll_card(cartas, M, luck=0):
+    # Aplica el bonus de luck al power_level
+    luck_multiplier = 1 + (luck / 100)
+    power_levels = cp.array([int(carta["power_level"]) * luck_multiplier for carta in cartas], dtype=cp.int64)
+    ranks = np.array([int(carta["rank"]) for carta in cartas], dtype=cp.int32)
     N = len(cartas)
     start = time.perf_counter()
     selected_indices = cp.full(M, -1, dtype=cp.int32)
